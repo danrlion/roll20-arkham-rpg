@@ -1,0 +1,1 @@
+&{template:default} {{name=Tirada de Agilidad}} {{Habilidad=Agilidad}} {{Valor habilidad=[[@{Agilidad}]]}} {{Tirada=[[?{Number of d6|1}d6]]}} {{Note=Cada dado ≥ valor de habilidad es un exito.}}

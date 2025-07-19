@@ -1,0 +1,3 @@
+/w gm @{selected|character_name} **Selecciona una situación**  [Esquivar ataque a distancia](~selected|Tirada-Agilidad) | [Bloquear ataque cuerpo a cuerpo](~selected|Tirada-Combate_cc) | [Resistir ataque mágico](~selected|Tirada-Aplomo)
+
+/w gm Si tienes éxito, anulas todo el daño y evitas todos los demás efectos del ataque.

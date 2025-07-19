@@ -1,0 +1,1 @@
+/w gm &{template:default} {{name=Estado Actual}} {{Reserva de dados=@{selected|Reserva de dados}}} {{Daño de horror=@{selected|Daño_de_horror}}} {{Daño fisico=@{selected|Daño}}}

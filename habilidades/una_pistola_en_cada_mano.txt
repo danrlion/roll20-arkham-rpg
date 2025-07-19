@@ -1,0 +1,1 @@
+&{template:default} {{name=Una pistola en cada mano}} {{Descripción=Cuando empuñes dos pistolas, una vez por turno después de efectuar un ataque ganas 1 dado adicional que solamente podrás usar para realizar un ataque adicional con la otra pistola. Los dos ataques pueden efectuarse contra un mismo objetivo o contra objetivos distintos.}}

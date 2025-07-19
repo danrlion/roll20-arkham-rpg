@@ -1,0 +1,1 @@
+/w gm @{selected|character_name} **Selecciona una accion:** [Curar daño fisico](~selected|Tirada-Curar_daño_fisico) | [Curar horror](~selected|Tirada-Curar_horror) | [Recargar bajo presión](~selected|Tirada-Recargar_bajo_presión) | [Separarse](~selected|Tirada-Separarse)
